@@ -1,0 +1,24 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.dbmdl
+
+# Build results
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Other
+*.ncrunch*
+*.localhistory/
+*.DS_Store
+*.vscode/
+
+# Optional: exclude secrets
+appsettings.Development.json
